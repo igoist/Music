@@ -1,0 +1,9 @@
+{
+  "name": "music",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igoist/Music.git"
+  },
+  "homepage": "https://github.com/igoist/Music#readme"
+}
